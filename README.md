@@ -8,3 +8,4 @@ Data Lokasi (GPS & Jaringan): Mengakses lokasi perangkat saat aplikasi digunakan
 Data Perangkat & Log: Informasi teknis seperti model perangkat, versi sistem operasi (Android), ID unik perangkat, dan statistik performa untuk optimasi aplikasi.
 3. Penggunaan Informasi
 Informasi yang dikumpulkan digunakan semata-mata untuk memprediksi titik potensi penangkapan ikan, memandu navigasi lokal pada peta interaktif, memproses autentikasi pengguna, serta menjaga keamanan infrastruktur backend (Firebase).
+google.com, pub-6291835968667157, DIRECT, f08c47fec0942fa0
